@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #2f3640;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.analog-clock{
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 50%;
+    border: 10px ridge #ea2027;
+}
